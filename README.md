@@ -1,4 +1,4 @@
-# GitHub lacks website URL backend validation
+# GitHub's Backend lacks website URL validation
 
 The input field for the repository's website URL is
 ```html
