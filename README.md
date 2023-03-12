@@ -4,7 +4,7 @@ The input field for the repository's website URL is
 ```html
 <input type="url">
 ```
-which *should* enforce a valid URL in the input.
+which tells the browser to enforce a valid URL in the input.
 But a quick usage of inspect element allows you to input a
 much wider range of values.
 
